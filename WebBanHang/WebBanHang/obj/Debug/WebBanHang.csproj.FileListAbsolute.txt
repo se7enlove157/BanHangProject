@@ -89,3 +89,4 @@ G:\GitHub\WebProject\WebBanHang\WebBanHang\obj\Debug\WebBanHang.Migrations.Initi
 G:\GitHub\WebProject\WebBanHang\WebBanHang\obj\Debug\WebBanHang.csproj.GenerateResource.Cache
 G:\GitHub\WebProject\WebBanHang\WebBanHang\obj\Debug\WebBanHang.dll
 G:\GitHub\WebProject\WebBanHang\WebBanHang\obj\Debug\WebBanHang.pdb
+G:\GitHub\WebProject\WebBanHang\WebBanHang\obj\Debug\WebBanHang.csprojResolveAssemblyReference.cache
